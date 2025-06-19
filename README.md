@@ -1,7 +1,5 @@
 # Educational Dataset Converter
 
-\[English version below]
-
 ---
 
 ## Proje Amacı
